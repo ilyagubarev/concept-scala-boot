@@ -1,2 +1,2 @@
-# concept-scala-boot
-Proof of concept for REST-ful web service application with Spring Boot and Scala
+# Proof Of Concept: Web Server With Scala And Spring Boot
+Proof of concept for REST-ful web service application developed in Scala with Spring Boot framework
